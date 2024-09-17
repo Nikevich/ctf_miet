@@ -1,1 +1,1 @@
-# Задачи WEB на Burp 
+# Задачи WEB на Burp Suit
